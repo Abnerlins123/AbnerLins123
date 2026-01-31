@@ -115,8 +115,6 @@ QA Engineer in career transition with a solid technical background in developmen
 
 ### 📊 Estatísticas
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img 
