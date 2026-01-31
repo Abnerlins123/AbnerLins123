@@ -2,7 +2,7 @@
 
 **`QA Engineer`**
 
-QA Engineer in career transition with a solid technical background in development (Python/Node.js). Specialist in creating automation scripts to optimize testing and validation processes. I combine experience in NOC infrastructure monitoring with a focus on high performance and product stability. "[Abner Lins](www.linkedin.com/in/abner-lins0194)", Where I created ideas or talked to other people. "[Discord](https://discord.com/cpabner)".
+QA Engineer in career transition with a solid technical background in development (Python/Node.js). Specialist in creating automation scripts to optimize testing and validation processes. I combine experience in NOC infrastructure monitoring with a focus on high performance and product stability. "[Abner Lins](www.linkedin.com/in/abner-lins0194)", Where I created ideas or talked to other people. "[Discord](https://discord.com/invite/cpabner)".
 
 <p 
       href="https://github.com/Abnerlins123?tab=followers">
@@ -115,15 +115,23 @@ QA Engineer in career transition with a solid technical background in developmen
 
 ### 📊 Estatísticas
 
-<img 
-    align="left" 
-    alt="Github Stats" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?Abnerlins123&show_icons=true&highcontrast=tokyonight&include_all_comits=true&locale=pt-br" />
+## 📊 GitHub Stats
+
+<div align="center">
 
 <img 
-    align="left" 
-    alt="Github Stats" 
-    width="30px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerlins123&theme=highcontrast&layout=compact&custom_title=Tecnologias_QA&langs_count=9" />
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=Abnerlins123&show_icons=true&theme=radical&include_all_commits=true" 
+    width="48%" 
+    alt="Anurag's GitHub stats"
+/>
+
+<img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerlins123&layout=compact&theme=radical&hide_border=true" 
+    width="46%" 
+    alt="Anurag's Top Languages"
+/>
+
+</div>
+
