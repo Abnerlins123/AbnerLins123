@@ -10,11 +10,6 @@ My transition with a solid technical background in development (Python/Node.js).
                alt="github" 
                title="Follow me on Github" 
                src="https://custom-icon-badges.demolab.com/github/followers/Abnerlins123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-      <img 
-               alt="linkedin" 
-               title="Follow me on linkedin" 
-               src=https://img.shields.io/badge/LinkedIn-/abner-lins0194=for-the-badge&logo=linkedin&logoColor=white />
-               </a>
    </p>
    </a> <a href="https://github.com/Abnerlins123?tab=repositories&sort=stargazers">
         <img 
