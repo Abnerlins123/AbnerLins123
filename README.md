@@ -2,7 +2,7 @@
 
 **`QA Engineer`**
 
-QA Engineer in career transition with a solid technical background in development (Python/Node.js). Specialist in creating automation scripts to optimize testing and validation processes. I combine experience in NOC infrastructure monitoring with a focus on high performance and product stability. "[Abner Lins](www.linkedin.com/in/abner-lins0194)", Where I created ideas or talked to other people. "[Discord](https://discord.com/invite/cpabner)".
+My transition with a solid technical background in development (Python/Node.js). Specialist in creating automation scripts to optimize testing and validation processes. I combine experience in NOC infrastructure monitoring with a focus on high performance and product stability. "[Abner Lins](www.linkedin.com/in/abner-lins0194)", Where I created ideas or talked to other people. "[Discord](https://discord.com/invite/cpabner)".
 
 <p 
       href="https://github.com/Abnerlins123?tab=followers">
