@@ -6,7 +6,11 @@ My transition with a solid technical background in development (Python/Node.js).
 
 <p 
       href="https://github.com/Abnerlins123?tab=followers">
-         <img alt="github" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img 
+               alt="github" 
+               title="Follow me on Github" 
+               src="https://custom-icon-badges.demolab.com/github/followers/Abnerlins123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+               </a>
    </p>
    </a> <a href="https://github.com/Abnerlins123?tab=repositories&sort=stargazers">
         <img 
