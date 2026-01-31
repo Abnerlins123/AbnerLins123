@@ -113,23 +113,3 @@ QA Engineer in career transition with a solid technical background in developmen
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<div align="center">
-
-<img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=Abnerlins123&show_icons=true&theme=radical&include_all_commits=true" 
-    width="48%" 
-    alt="Anurag's GitHub stats"
-/>
-
-<img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerlins123&layout=compact&theme=radical&hide_border=true" 
-    width="46%" 
-    alt="Anurag's Top Languages"
-/>
-
-</div>
-
