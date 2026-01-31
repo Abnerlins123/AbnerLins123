@@ -9,7 +9,7 @@ My transition with a solid technical background in development (Python/Node.js).
          <img 
                alt="github" 
                title="Follow me on Github" 
-               src="https://custom-icon-badges.demolab.com/github/followers/Abnerlins123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+               src="https://custom-icon-badges.demolab.com/github/Abnerlins123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </p>
    </a> <a href="https://github.com/Abnerlins123?tab=repositories&sort=stargazers">
         <img 
