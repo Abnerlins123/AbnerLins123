@@ -4,12 +4,6 @@
 
 My transition with a solid technical background in development (Python/Node.js). Specialist in creating automation scripts to optimize testing and validation processes. I combine experience in NOC infrastructure monitoring with a focus on high performance and product stability. "[Abner Lins](www.linkedin.com/in/abner-lins0194)", Where I created ideas or talked to other people. "[Discord](https://discord.com/invite/cpabner)".
 
-<p 
-      href="https://github.com/Abnerlins123">
-         <img 
-               alt="github" 
-               title="Follow me on Github" 
-               src="https://custom-icon-badges.demolab.com/github/Abnerlins123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </p>
    </a> <a href="https://github.com/Abnerlins123?tab=repositories&sort=stargazers">
         <img 
