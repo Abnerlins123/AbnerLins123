@@ -13,7 +13,7 @@ My transition with a solid technical background in development (Python/Node.js).
       <img 
                alt="linkedin" 
                title="Follow me on linkedin" 
-               src="www.linkedin.com/in/abner-lins0194?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+               src="www.linkedin.com/in/abner-lins0194?repo"/>
                </a>
    </p>
    </a> <a href="https://github.com/Abnerlins123?tab=repositories&sort=stargazers">
