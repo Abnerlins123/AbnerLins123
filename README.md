@@ -1,8 +1,14 @@
 ## 🐱‍👤 Abner Lins
 
-**`QA Engineer`**
+**👋 Hi, **
 
-Engenheiro de QA com foco em automação de testes e qualidade de software, com experiência em Cypress, Selenium, Postman e Jira. Atualmente atuo no DNIT como CCO (Auxiliar Técnico), realizando suporte técnico, análise operacional e monitoramento de sistemas. Possuo background em desenvolvimento (Node.js e Python) e monitoramento de infraestrutura (NOC), o que me proporciona visão sistêmica para identificar, reproduzir e prevenir falhas. Trabalho com criação de cenários de testes automatizados, validação de APIs e análise de bugs, apoiando times de desenvolvimento na entrega de soluções mais confiáveis. Busco evoluir continuamente e contribuir para melhoria da qualidade e eficiência dos processos de software. "[Abner Lins](www.linkedin.com/in/abner-lins0194)", Where I created ideas or talked to other people. "[Discord](discordapp.com/users/862066649472303104)".
+QA Engineer focused on test automation and software quality, with hands-on experience in Cypress, Selenium, Postman, and Jira.
+
+I have a background in software development (JavaScript, Node.js, Python) and infrastructure monitoring (NOC), which gives me a strong systemic view to identify, reproduce, and prevent failures.
+
+I work on automated test scenarios, API validation, and bug analysis, collaborating with development teams to deliver reliable and high-quality software.
+
+🚀 Currently improving my skills and looking for opportunities in QA / Automation. "[Abner Lins](www.linkedin.com/in/abner-lins0194)", Where I created ideas or talked to other people. "[Discord](discordapp.com/users/862066649472303104)".
 
    </p>
    </a> <a href="https://github.com/Abnerlins123?tab=repositories&sort=stargazers">
