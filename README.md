@@ -8,7 +8,8 @@ I have a background in software development (JavaScript, Node.js, Python) and in
 
 I work on automated test scenarios, API validation, and bug analysis, collaborating with development teams to deliver reliable and high-quality software.
 
-🚀 Currently improving my skills and looking for opportunities in QA / Automation. "[Abner Lins](www.linkedin.com/in/abnerlins)", Where I created ideas or talked to other people. "[Discord](discordapp.com/users/862066649472303104)".
+🚀 Currently improving my skills and looking for opportunities in QA / Automation. "[Abner Lins](www.linkedin.com/in/abnerlins
+)", Where I created ideas or talked to other people. "[Discord](discordapp.com/users/862066649472303104)".
 
    </p>
    </a> <a href="https://github.com/Abnerlins123?tab=repositories&sort=stargazers">
